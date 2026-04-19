@@ -120,7 +120,7 @@ export const playlists: Playlist[] = [
         durationMs: 204000,
         coverImage: IMAGES.albumSolELua,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/4uNECVAqc6LjDH8pqXH3Ey",
-        lyrics: "Sol e lua, lua e sol\nTu és luz que me ilumina\nSol e lua, lua e sol\nÉ você que me fascina"
+        lyrics: "O sol pediu a lua em casamento\nDisse que já a amava há muito tempo\nDesde a época dos dinossauros, pterodátilos, tiranossauros\nQuando nem existia a bicicleta nem o velotrol nem a motocicleta"
       },
       {
         id: "cheiro-de-mar",
