@@ -120,7 +120,7 @@ export const playlists: Playlist[] = [
         durationMs: 204000,
         coverImage: IMAGES.albumSolELua,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/4uNECVAqc6LjDH8pqXH3Ey",
-        lyrics: "O sol pediu a lua em casamento\nDisse que já a amava há muito tempo\nDesde a época dos dinossauros, pterodátilos, tiranossauros\nQuando nem existia a bicicleta nem o velotrol nem a motocicleta"
+        lyrics: "O Sol pediu a lua em casamento\nE a Lua, disse\nNão sei, não sei, não sei\nMe dá um tempo"
       },
       {
         id: "cheiro-de-mar",
@@ -175,7 +175,7 @@ export const playlists: Playlist[] = [
         durationMs: 222000,
         coverImage: IMAGES.albumMatematica,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/5CIHSAYZZ9ppV7wCDfBEcV",
-        lyrics: "Você mais eu, é igual a nós dois\nUm mais um sempre será dois\nMatemática do amor..."
+        lyrics: "Então deixa eu te mostrar que mesmo sendo difícil de explicar\nEu sei que você pode, pode me amar assim como eu, eu te amo\nEntão deixa eu te mostrar que mesmo sendo difícil de explicar\nEu sei que você pode, pode me amar assim como eu, eu te amo\nEntão deixa eu te mostrar que mesmo sendo difícil de explicar\nEu sei que você pode, pode me amar assim como eu, eu te amoAssim como eu, eu te amo\nAssim como eu, eu te amo"
       },
       {
         id: "eternamente",
