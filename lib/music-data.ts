@@ -187,6 +187,8 @@ export const playlists: Playlist[] = [
         coverImage: IMAGES.albumGal,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/1ngbz6irbfEmpsYcZhzX6L",
         lyrics: ""
+
+        },
       // ADICIONE MAIS MÚSICAS AQUI - COPIE O FORMATO ACIMA
     ]
   },
@@ -237,6 +239,7 @@ export const playlists: Playlist[] = [
         coverImage: IMAGES.albumDanca,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/6327e83uw050FViHyIFBL5",
         lyrics: ""
+        },
       {
         id: "pelo-tempo-que-durar",
         title: "Pelo Tempo Que Durar",
@@ -247,6 +250,7 @@ export const playlists: Playlist[] = [
         coverImage: IMAGES.albumPeloTempo,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/5sJJQxIfys0imGd4WhILm8",
         lyrics: ""
+        },
       {
         id: "platao-neruda",
         title: "De Platão Pra Neruda",
@@ -268,6 +272,7 @@ export const playlists: Playlist[] = [
         coverImage: IMAGES.albumLevo,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/6BcqNZ7D3gI0ALivZMAvux",
         lyrics: ""
+        },
       {
         id: "2-much",
         title: "2 Much",
