@@ -131,7 +131,7 @@ export const playlists: Playlist[] = [
         durationMs: 252000,
         coverImage: IMAGES.albumCheiroMar,
         spotifyUrl: "https://open.spotify.com/intl-pt/album/6Pu2z4gz2CCpO8cB78Gttx",
-        lyrics: "Cheiro de mar, brisa do vento\nTeu sorriso é meu alento\nNa areia dos nossos passos\nDesenho o nosso momento..."
+        lyrics: ""
       },
       {
         id: "envelhecer-com-voce",
@@ -142,7 +142,7 @@ export const playlists: Playlist[] = [
         durationMs: 225000,
         coverImage: IMAGES.albumEnvelhecer,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/41P3rv4y39QiEIdhqBrmaF",
-        lyrics: "Quero envelhecer com você\nVer nossos cabelos brancos\nE ainda sentir teu toque\nAinda ouvir teu canto..."
+        lyrics: ""
       },
       {
         id: "perola",
@@ -153,7 +153,7 @@ export const playlists: Playlist[] = [
         durationMs: 232000,
         coverImage: IMAGES.albumPerola,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/3UYmQN7OBL6aGmzd3kiVcj",
-        lyrics: "Você é minha pérola rara\nUm tesouro que encontrei\nNo fundo do mar da vida\nFoi você que eu encontrei..."
+        lyrics: ""
       },
       {
         id: "sentimental",
@@ -164,7 +164,7 @@ export const playlists: Playlist[] = [
         durationMs: 210000,
         coverImage: IMAGES.albumSentimental,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/6Zv4HVHfadVo3JQSSbwY7r",
-        lyrics: "De vez em quando bate uma saudade\nDe tudo que a gente não viveu\nA memória se inventa de verdade\nUm passado que o presente esqueceu..."
+        lyrics: ""
       },
       {
         id: "matematica-nossas",
@@ -186,8 +186,7 @@ export const playlists: Playlist[] = [
         durationMs: 198000,
         coverImage: IMAGES.albumGal,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/1ngbz6irbfEmpsYcZhzX6L",
-        lyrics: "Eternamente, eu vou te amar\nEternamente, até o fim\nNão importa o que aconteça\nVou estar aqui por ti..."
-      },
+        lyrics: ""
       // ADICIONE MAIS MÚSICAS AQUI - COPIE O FORMATO ACIMA
     ]
   },
@@ -214,7 +213,7 @@ export const playlists: Playlist[] = [
   {
     id: "voce",
     name: "Você",
-    description: "Cada momento ao seu lado é únio, minha princesa. E essas são algumas das músicas que me lembram você!",
+    description: "Cada momento ao seu lado é único, minha princesa. E essas são algumas das músicas que me lembram você!",
     coverImage: IMAGES.coupleLake,
     tracks: [
       {
@@ -226,7 +225,7 @@ export const playlists: Playlist[] = [
         durationMs: 222000,
         coverImage: IMAGES.albumMatematica,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/5CIHSAYZZ9ppV7wCDfBEcV",
-        lyrics: "Você mais eu, é igual a nós dois\nUm mais um sempre será dois\nMatemática do amor..."
+        lyrics: ""
       },
       {
         id: "danca",
@@ -237,8 +236,7 @@ export const playlists: Playlist[] = [
         durationMs: 225000,
         coverImage: IMAGES.albumDanca,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/6327e83uw050FViHyIFBL5",
-        lyrics: "Vem dançar comigo ao pôr do sol\nNo ritmo do nosso coração\nCada passo que damos juntos\nÉ mais um verso dessa canção..."
-      },
+        lyrics: ""
       {
         id: "pelo-tempo-que-durar",
         title: "Pelo Tempo Que Durar",
@@ -248,8 +246,7 @@ export const playlists: Playlist[] = [
         durationMs: 240000,
         coverImage: IMAGES.albumPeloTempo,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/5sJJQxIfys0imGd4WhILm8",
-        lyrics: "Pelo tempo que durar\nVou te amar de todo jeito\nPelo tempo que durar\nVou cuidar do que é perfeito..."
-      },
+        lyrics: ""
       {
         id: "platao-neruda",
         title: "De Platão Pra Neruda",
@@ -259,7 +256,7 @@ export const playlists: Playlist[] = [
         durationMs: 235000,
         coverImage: IMAGES.albumPlatao,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/6BtPO7BbSD36sZMqYY7rxl",
-        lyrics: "De Platão pra Neruda\nDe filósofo a poeta\nO amor sempre muda\nMas contigo se completa..."
+        lyrics: ""
       },
       {
         id: "levo-comigo",
@@ -270,8 +267,7 @@ export const playlists: Playlist[] = [
         durationMs: 220000,
         coverImage: IMAGES.albumLevo,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/6BcqNZ7D3gI0ALivZMAvux",
-        lyrics: "Levo comigo tudo que você me deu\nGuardo no peito esse amor que nasceu\nLevo comigo cada momento vivido\nCada sorriso, cada sonho dividido..."
-      },
+        lyrics: ""
       {
         id: "2-much",
         title: "2 Much",
@@ -281,7 +277,7 @@ export const playlists: Playlist[] = [
         durationMs: 172000,
         coverImage: IMAGES.albumJustice,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/0oaY19dUwZimIgzn3ZZLZO",
-        lyrics: "When I look in your eyes\nI'm captured, completely\nI can't help but smile\nI love you completely\n\nI just can't get enough\nI just can't get enough\nYou're so much more than enough\nSo much more than enough"
+        lyrics: ""
       },
       {
         id: "to-the-moon",
@@ -292,7 +288,7 @@ export const playlists: Playlist[] = [
         durationMs: 250000,
         coverImage: IMAGES.albumToTheMoon,
         spotifyUrl: "https://open.spotify.com/intl-pt/track/47aiTSjeAGOofQXyAMwRVZ",
-        lyrics: "To the moon and back\nI'd travel just for you\nThrough the stars and galaxies\nMy love remains so true..."
+        lyrics: ""
       },
       // ADICIONE MAIS MÚSICAS AQUI - COPIE O FORMATO ACIMA
     ]
@@ -324,8 +320,8 @@ export const playlists: Playlist[] = [
 
 // Frases do questionário antes de acessar a música especial
 export const specialPhrases = [
-  "Você é exatamente o que eu precisava",
-  "Você clareou minha vida.",
+  "Você é exatamente o que eu precisava.",
+  "Você clareou minha vida.\nMinha ClaraLua",
   "A Harmonia Perfeita de todas as qualidades.",
   "Quanto mais eu te observo, mais eu percebo a ARte que é você.",
   "E tudo te trouxe até aqui pra você entender o porquê desse site ser um spotify.",
@@ -339,7 +335,7 @@ export const artistProfile = {
   verified: true,
   monthlyListeners: "1",
   followers: 1,
-  bio: "A cantora mais perfeita do mundo. Com a voz mais incrível que já vi. Eu sou seu fã 00!",
+  bio: "A cantora mais perfeita do mundo. Com a voz mais incrível que já ouvi. Eu sou seu fã 00!",
   profileImage: IMAGES.profilePhoto,
   headerImage: IMAGES.coupleBeach,
   galleryImages: [
